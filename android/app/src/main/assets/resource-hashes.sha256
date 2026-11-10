@@ -1,0 +1,6 @@
+# Expected SHA-256 hashes for this app's resource release.
+7b8a17b13c6b5b94a3bf4a605b6c2413a528fa646854ab03a4e8b864dfc16c39  main.pak
+69d1423cc849e3c4f231db6aa47038efc67bdea677ccee96200911720eadafc3  properties/partner.xml
+6ba95bf1ac7305c73b4c9d2190f6ed1e903f2f6ec5d67f187db422947c64c4d5  properties/partner.xml.sig
+5432fe4eb4bb110935a3ef05569ffb45f923168cc9d74aabf67e64492b90a513  properties/partner.xml.sig2
+8bea233c40ddf74decf3ddd0a3d4cef8e1229ca3a756384e78d319aca0b63113  properties/partner_logo.jpg

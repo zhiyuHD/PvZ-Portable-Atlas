@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PvZ Portable</string>
+    <string name="tagline">植物大战僵尸 GOTY · 跨平台移植版</string>
+
+    <!-- ResourceImportActivity -->
+    <string name="status_ready">游戏资源已就绪，可以开始游戏！</string>
+    <string name="status_checking_resources">正在校验游戏资源…</string>
+    <string name="status_resources_outdated">资源校验不通过，请更新资源。\n点击“更新资源”，或重新导入最新资源包。</string>
+    <string name="resource_update_required">游戏资源版本不匹配或文件已损坏，请更新资源。</string>
+    <string name="btn_update_resources">更新资源</string>
+    <string name="status_missing">未找到游戏资源。\n请导入 main.pak 和 properties/ 目录。</string>
+
+    <string name="section_import_resources">导入游戏资源</string>
+    <string name="import_help">选择包含正版 main.pak 和 properties/ 目录的 ZIP 文件或文件夹。</string>
+    <string name="btn_auto_download">自动下载资源</string>
+    <string name="download_progress">正在下载… %1$d%%</string>
+    <string name="btn_pick_zip">选择 ZIP 文件</string>
+    <string name="btn_pick_dir">选择资源文件夹</string>
+
+    <string name="section_save_data">存档管理（可选）</string>
+    <string name="btn_export_save">导出存档</string>
+    <string name="btn_import_save_zip">导入存档 ZIP</string>
+    <string name="btn_import_save_dir">导入存档文件夹</string>
+
+    <string name="btn_launch_game">开始游戏</string>
+
+    <string name="import_success">导入成功！</string>
+    <string name="import_failed">导入失败：%1$s</string>
+    <string name="export_success">存档导出成功！</string>
+    <string name="export_failed">导出失败：%1$s</string>
+    <string name="no_save_data">没有找到可导出的存档。</string>
+    <string name="shortcut_manage_data">管理数据</string>
+    <string name="shortcut_manage_data_long">管理资源与存档</string>
+</resources>
